@@ -15,5 +15,4 @@ repository-code: "https://github.com/KikoBelchi/landscape_velocity"
 license: MIT
 version: "1.0.0"
 date-released: "2026-11-06"
-# Uncomment and replace the DOI below after Zenodo assigns it.
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.24020159" 
