@@ -1,23 +1,19 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the paper below."
-title: "Persistence landscape velocity: Closed formulas and a topological probe of quantum criticality: code"
+message: "If you use this software, please cite it using these metadata and also cite the accompanying paper."
+type: software
+title: "Persistence landscape velocity: Closed formulas and a topological probe of quantum criticality: code accompanying the paper"
 authors:
-  - family-names: Belchí
-    given-names: Francisco
+  - family-names: "Belchí"
+    given-names: "Francisco"
     affiliation: "Universitat Ramon Llull, La Salle Campus Barcelona"
-  - family-names: Statuto
-    given-names: Nahuel
+    orcid: "https://orcid.org/0000-0001-5863-3343"
+  - family-names: "Statuto"
+    given-names: "Nahuel"
     affiliation: "Universitat de Barcelona"
+    orcid: "https://orcid.org/0000-0002-0062-760X"
+repository-code: "https://github.com/KikoBelchi/landscape_velocity"
 license: MIT
 version: "1.0.0"
-date-released: "2026-11-03"
-# doi: 10.5281/zenodo.XXXXXXX   (fill in after the Zenodo release)
-preferred-citation:
-  type: article
-  title: "Persistence landscape velocity: Closed formulas and a topological probe of quantum criticality"
-  authors:
-    - family-names: Belchí
-      given-names: Francisco
-    - family-names: Statuto
-      given-names: Nahuel
-  status: preprint
+date-released: "2026-11-06"
+# Uncomment and replace the DOI below after Zenodo assigns it.
+# doi: "10.5281/zenodo.XXXXXXX"
