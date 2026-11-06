@@ -1,0 +1,9 @@
+# everything the code writes
+runs/*
+!runs/README.md
+analysis/figures_*/
+proofs/*_output.json
+
+__pycache__/
+*.pyc
+.pytest_cache/
